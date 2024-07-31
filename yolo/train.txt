@@ -37,3 +37,14 @@ data/obj_train_data/munkai-4.jpg
 data/obj_train_data/omelette-1.jpg
 data/obj_train_data/omelette-2.jpg
 data/obj_train_data/omelette-3.jpg
+data/obj_train_data/food1.jpg
+data/obj_train_data/food10.jpg
+data/obj_train_data/food11.jpg
+data/obj_train_data/food2.jpg
+data/obj_train_data/food3.jpg
+data/obj_train_data/food4.jpg
+data/obj_train_data/food5.jpg
+data/obj_train_data/food6.jpg
+data/obj_train_data/food7.jpg
+data/obj_train_data/food8.jpg
+data/obj_train_data/food9.jpg
