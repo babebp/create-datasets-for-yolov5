@@ -1,0 +1,15 @@
+data/obj_train_data/black-rice-with-chicken.jfif
+data/obj_train_data/japanese-rice-with-fish.jfif
+data/obj_train_data/kaprao-with-fried-egg.jpg
+data/obj_train_data/noodle-fried-egg-and-sausage.jfif
+data/obj_train_data/rice-with-chicken.jfif
+data/obj_train_data/rice-with-crispy-pork.jfif
+data/obj_train_data/rice-with-fried-pork-2.jpg
+data/obj_train_data/rice-with-fried-pork.jfif
+data/obj_train_data/rice-with-omelet-crispy-pork.jpg
+data/obj_train_data/rice-with-steamed-chicken-2.jpg
+data/obj_train_data/rice-with-steamed-chicken.jfif
+data/obj_train_data/rice-with-vegetable.jfif
+data/obj_train_data/shrimp-omelet.jfif
+data/obj_train_data/stewed-pork-leg-on-rice..jfif
+data/obj_train_data/tonkatsu.jpg
