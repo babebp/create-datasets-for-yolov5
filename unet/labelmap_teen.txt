@@ -1,0 +1,5 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+carbohydrate:204,153,51::
+protein:255,53,94::
+vegetable:102,255,102::
